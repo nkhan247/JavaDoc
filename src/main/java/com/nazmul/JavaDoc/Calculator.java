@@ -1,7 +1,8 @@
 package com.nazmul.JavaDoc;
 
-public class App {
+public class Calculator {
+
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
+		
 	}
 }
